@@ -1,0 +1,5 @@
+# Cookies for domains related to footballradar.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt http://www.footballradar.com/quiz/
+#
+www.footballradar.com	FALSE	/	FALSE	0	PHPSESSID	kkmppgmuar38a3k7928vbsnmh1
